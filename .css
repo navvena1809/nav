@@ -1,0 +1,33 @@
+body{
+    font-size: 18px;
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+#main-nav{
+	border-radius: 0;
+	background-color: #cf0fff;
+    padding: 20px;
+}
+
+#nav-items ul li a{
+    color: #FF6347;
+    text-align: center;
+}
+
+#nav-button .icon-bar{
+    border: 1px solid  #FF6347;
+}
+
+#brand{
+	color: #FF6347;
+	margin: 0px;
+}
+
+#main-content{
+	background-color: #cf0fff;
+	margin: 15px;
+	height: 1000px;
+}
